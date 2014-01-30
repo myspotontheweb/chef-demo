@@ -13,3 +13,5 @@ Gemfile.lock
 bin/*
 .bundle/*
 
+# Chef-zero
+.zero-knife.rb
